@@ -1,0 +1,19 @@
+* {
+ box-sizing: border-box;
+}
+
+#content {
+ width: 480px;
+ margin: 0 auto;
+}
+.editor {
+ border: 1px solid grey;
+ background: rgb(255, 126, 21);
+ padding: 6px;
+}
+.markdown-result {
+ border: 1px solid rgb(41, 41, 41);
+ background: rgb(85, 85, 85);
+ color: white;
+ padding: 6px;
+}
